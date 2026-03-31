@@ -13,7 +13,7 @@ The goal of this analysis is to provide a clear understanding of how to calculat
 | **Mode** | The most frequently occurring value. |
 
 ## 🛠️ Tools & Libraries
-- **Python 3.x**
+- **Python 3.13**
 - **Pandas**: Data manipulation
 - **Seaborn**: Data visualization & datasets
 - **Jupyter Notebook**: Interactive environment
